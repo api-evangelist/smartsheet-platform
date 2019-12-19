@@ -1,0 +1,81 @@
+{
+    "name": "Smartsheet Platform",
+    "description": "The leading work management platform you need to move from idea to impact ??? fast.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2565-smartsheet-platform.jpg",
+    "tags": [
+        "have api",
+        "spreadsheets",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/smartsheet-platform\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Smartsheet Platform",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2565-smartsheet-platform.jpg",
+            "humanURL": "http:\/\/www.smartsheet.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/smartsheet-platform-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/smartsheet-platform.github.io\/api-docs\/#webhooks"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.smartsheet.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.smartsheet.com\/blog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/smartsheet"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.smartsheet.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "legal@smartsheet.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@smartsheet.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@smartsheet.com"
+        },
+        {
+            "type": "Email",
+            "url": "finance@smartsheet.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SmartsheetAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Smartsheet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.smartsheet.com\/"
+        }
+    ]
+}
